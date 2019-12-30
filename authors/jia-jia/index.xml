@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia Jia | Behavioral Data Science</title>
+    <link>/authors/jia-jia/</link>
+      <atom:link href="/authors/jia-jia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia Jia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Jia Jia</title>
+      <link>/authors/jia-jia/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing and Predicting Emoji Usages in Social Media</title>
+      <link>/publication/zhao-2018-analyzing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-2018-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Emotion Influence in Image Social Networks</title>
+      <link>/publication/wangmodeling/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/wangmodeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

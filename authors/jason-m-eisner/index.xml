@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason M Eisner | Behavioral Data Science</title>
+    <link>/authors/jason-m-eisner/</link>
+      <atom:link href="/authors/jason-m-eisner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jason M Eisner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Jason M Eisner</title>
+      <link>/authors/jason-m-eisner/</link>
+    </image>
+    
+    <item>
+      <title>The neural hawkes process: A neurally self-modulating multivariate point process</title>
+      <link>/publication/mei-2017-neural/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/mei-2017-neural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

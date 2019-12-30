@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark EJ Newman | Behavioral Data Science</title>
+    <link>/authors/mark-ej-newman/</link>
+      <atom:link href="/authors/mark-ej-newman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark EJ Newman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Mark EJ Newman</title>
+      <link>/authors/mark-ej-newman/</link>
+    </image>
+    
+    <item>
+      <title>Message passing approach for general epidemic models</title>
+      <link>/publication/karrer-2010-message/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/karrer-2010-message/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

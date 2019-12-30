@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. R. Cox | Behavioral Data Science</title>
+    <link>/authors/d.-r.-cox/</link>
+      <atom:link href="/authors/d.-r.-cox/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. R. Cox</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 1984 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>D. R. Cox</title>
+      <link>/authors/d.-r.-cox/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of survival data</title>
+      <link>/publication/cox-1984-analysis/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>/publication/cox-1984-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

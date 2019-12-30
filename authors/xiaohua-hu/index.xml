@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaohua Hu | Behavioral Data Science</title>
+    <link>/authors/xiaohua-hu/</link>
+      <atom:link href="/authors/xiaohua-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaohua Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Xiaohua Hu</title>
+      <link>/authors/xiaohua-hu/</link>
+    </image>
+    
+    <item>
+      <title>Video popularity prediction by sentiment propagation via implicit network</title>
+      <link>/publication/ding-2015-video/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ding-2015-video/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

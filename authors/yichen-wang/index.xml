@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yichen Wang | Behavioral Data Science</title>
+    <link>/authors/yichen-wang/</link>
+      <atom:link href="/authors/yichen-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yichen Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Yichen Wang</title>
+      <link>/authors/yichen-wang/</link>
+    </image>
+    
+    <item>
+      <title>COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution</title>
+      <link>/publication/farajtabar-2015-coevolve/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/farajtabar-2015-coevolve/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

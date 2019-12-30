@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George Streftaris | Behavioral Data Science</title>
+    <link>/authors/george-streftaris/</link>
+      <atom:link href="/authors/george-streftaris/index.xml" rel="self" type="application/rss+xml" />
+    <description>George Streftaris</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>George Streftaris</title>
+      <link>/authors/george-streftaris/</link>
+    </image>
+    
+    <item>
+      <title>Non-exponential tolerance to infection in epidemic systems—modeling, inference, and assessment</title>
+      <link>/publication/streftaris-2012-non/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/streftaris-2012-non/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

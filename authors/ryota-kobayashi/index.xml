@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryota Kobayashi | Behavioral Data Science</title>
+    <link>/authors/ryota-kobayashi/</link>
+      <atom:link href="/authors/ryota-kobayashi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryota Kobayashi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Ryota Kobayashi</title>
+      <link>/authors/ryota-kobayashi/</link>
+    </image>
+    
+    <item>
+      <title>TiDeH: Time-Dependent Hawkes Process for Predicting Retweet Dynamics</title>
+      <link>/publication/kobayashi-2016-ti-de-h-dynamics/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/kobayashi-2016-ti-de-h-dynamics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

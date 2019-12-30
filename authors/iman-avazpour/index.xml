@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iman Avazpour | Behavioral Data Science</title>
+    <link>/authors/iman-avazpour/</link>
+      <atom:link href="/authors/iman-avazpour/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iman Avazpour</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Iman Avazpour</title>
+      <link>/authors/iman-avazpour/</link>
+    </image>
+    
+    <item>
+      <title>PathRec: Visual Analysis of Travel Route Recommendations</title>
+      <link>/publication/chen-2017-recsys/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2017-recsys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Walder | Behavioral Data Science</title>
+    <link>/authors/christian-walder/</link>
+      <atom:link href="/authors/christian-walder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Walder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Christian Walder</title>
+      <link>/authors/christian-walder/</link>
+    </image>
+    
+    <item>
+      <title>Variational Inference for Sparse Gaussian Process Modulated Hawkes Process</title>
+      <link>/publication/zhang-aaai-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-aaai-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efﬁcient Non-parametric Bayesian Hawkes Processes</title>
+      <link>/publication/zhang-2019-efficient/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2019-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Dynamic Programming for Musical Self Similarity</title>
+      <link>/publication/pmlr-v-80-walder-18-a/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pmlr-v-80-walder-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Bounded Prediction Suffix Tree via Approximate String Matching</title>
+      <link>/publication/pmlr-v-80-kim-18-c/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pmlr-v-80-kim-18-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

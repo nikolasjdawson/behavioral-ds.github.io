@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Balduzzi | Behavioral Data Science</title>
+    <link>/authors/david-balduzzi/</link>
+      <atom:link href="/authors/david-balduzzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Balduzzi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>David Balduzzi</title>
+      <link>/authors/david-balduzzi/</link>
+    </image>
+    
+    <item>
+      <title>Uncovering the temporal dynamics of diffusion networks</title>
+      <link>/publication/rodriguez-2011-uncovering/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rodriguez-2011-uncovering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>twitter | Behavioral Data Science</title>
+    <link>/tags/twitter/</link>
+      <atom:link href="/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <description>twitter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>twitter</title>
+      <link>/tags/twitter/</link>
+    </image>
+    
+    <item>
+      <title>Twitter-driven YouTube Views: Beyond Individual Influencers</title>
+      <link>/publication/yu-2014-tyv-2647868-2655037/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/yu-2014-tyv-2647868-2655037/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

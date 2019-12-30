@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Christen | Behavioral Data Science</title>
+    <link>/authors/peter-christen/</link>
+      <atom:link href="/authors/peter-christen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Christen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Peter Christen</title>
+      <link>/authors/peter-christen/</link>
+    </image>
+    
+    <item>
+      <title>Social Affinity Filtering: Recommendation Through Fine-grained Analysis of User Interactions and Activities</title>
+      <link>/publication/sedhain-2013-saf-2512938-2512947/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/sedhain-2013-saf-2512938-2512947/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Diffusion Patterns in Social Media</title>
+      <link>/publication/kim-2012-event/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2012-event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Objective Functions for Social Collaborative Filtering</title>
+      <link>/publication/noel-2012-new/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/noel-2012-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Behavioral Data Science</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hawkes processes</title>
+      <link>/tags/hawkes-processes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/hawkes-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information diffusion</title>
+      <link>/tags/information-diffusion/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/information-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recurrent neural networks</title>
+      <link>/tags/recurrent-neural-networks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/recurrent-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational biology and bioinformatics</title>
+      <link>/tags/computational-biology-and-bioinformatics/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/computational-biology-and-bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disease epidemiology</title>
+      <link>/tags/disease-epidemiology/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/disease-epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infectious</title>
+      <link>/tags/infectious/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/infectious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infectious diseases</title>
+      <link>/tags/infectious-diseases/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/infectious-diseases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malaria</title>
+      <link>/tags/malaria/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/malaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>active learning</title>
+      <link>/tags/active-learning/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/active-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>general</title>
+      <link>/tags/general/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge graph</title>
+      <link>/tags/knowledge-graph/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/knowledge-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>/tags/science/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social media; self-exciting point process; information diffusion; cascade prediction</title>
+      <link>/tags/social-media-self-exciting-point-process-information-diffusion-cascade-prediction/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/social-media-self-exciting-point-process-information-diffusion-cascade-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thompson sampling</title>
+      <link>/tags/thompson-sampling/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/thompson-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory recommendation; learning to rank; planning</title>
+      <link>/tags/trajectory-recommendation-learning-to-rank-planning/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/trajectory-recommendation-learning-to-rank-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>context-aware recommendation</title>
+      <link>/tags/context-aware-recommendation/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/context-aware-recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sketch annotation</title>
+      <link>/tags/sketch-annotation/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/sketch-annotation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketching interface</title>
+      <link>/tags/sketching-interface/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/sketching-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video organization</title>
+      <link>/tags/video-organization/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/video-organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image analysis</title>
+      <link>/tags/image-analysis/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/image-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social media</title>
+      <link>/tags/social-media/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>topic models</title>
+      <link>/tags/topic-models/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/topic-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cold-start problem</title>
+      <link>/tags/cold-start-problem/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/cold-start-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>popularity prediction</title>
+      <link>/tags/popularity-prediction/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/popularity-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recommender systems</title>
+      <link>/tags/recommender-systems/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/recommender-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>/tags/twitter/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>/tags/youtube/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>collaborative filtering</title>
+      <link>/tags/collaborative-filtering/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/collaborative-filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>folksonomy</title>
+      <link>/tags/folksonomy/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/folksonomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social networks</title>
+      <link>/tags/social-networks/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/tags/social-networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

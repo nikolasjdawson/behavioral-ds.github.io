@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongbo Deng | Behavioral Data Science</title>
+    <link>/authors/hongbo-deng/</link>
+      <atom:link href="/authors/hongbo-deng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongbo Deng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Hongbo Deng</title>
+      <link>/authors/hongbo-deng/</link>
+    </image>
+    
+    <item>
+      <title>Learning parametric models for context-aware query auto-completion via hawkes processes</title>
+      <link>/publication/li-2017-learning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2017-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

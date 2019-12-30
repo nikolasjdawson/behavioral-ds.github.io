@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ke Zhou | Behavioral Data Science</title>
+    <link>/authors/ke-zhou/</link>
+      <atom:link href="/authors/ke-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ke Zhou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Ke Zhou</title>
+      <link>/authors/ke-zhou/</link>
+    </image>
+    
+    <item>
+      <title>Learning triggering kernels for multi-dimensional hawkes processes</title>
+      <link>/publication/zhou-2013-learning/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/zhou-2013-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick J Laub | Behavioral Data Science</title>
+    <link>/authors/patrick-j-laub/</link>
+      <atom:link href="/authors/patrick-j-laub/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick J Laub</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Patrick J Laub</title>
+      <link>/authors/patrick-j-laub/</link>
+    </image>
+    
+    <item>
+      <title>Hawkes processes</title>
+      <link>/publication/laub-2015-hawkes/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/laub-2015-hawkes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

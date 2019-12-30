@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weishan Dong | Behavioral Data Science</title>
+    <link>/authors/weishan-dong/</link>
+      <atom:link href="/authors/weishan-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weishan Dong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Weishan Dong</title>
+      <link>/authors/weishan-dong/</link>
+    </image>
+    
+    <item>
+      <title>Detect Irregularly Shaped Spatio-temporal Clusters for Decision Support (BEST PAPER AWARD)</title>
+      <link>/publication/dong-2011-detect/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/dong-2011-detect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

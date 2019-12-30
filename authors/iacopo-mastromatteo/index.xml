@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iacopo Mastromatteo | Behavioral Data Science</title>
+    <link>/authors/iacopo-mastromatteo/</link>
+      <atom:link href="/authors/iacopo-mastromatteo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iacopo Mastromatteo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Iacopo Mastromatteo</title>
+      <link>/authors/iacopo-mastromatteo/</link>
+    </image>
+    
+    <item>
+      <title>Hawkes processes in finance</title>
+      <link>/publication/bacry-2015-hawkes/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bacry-2015-hawkes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zahra Iman | Behavioral Data Science</title>
+    <link>/authors/zahra-iman/</link>
+      <atom:link href="/authors/zahra-iman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zahra Iman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Zahra Iman</title>
+      <link>/authors/zahra-iman/</link>
+    </image>
+    
+    <item>
+      <title>A Longitudinal Study of Topic Classification on Twitter</title>
+      <link>/publication/sanner-icwsm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sanner-icwsm-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

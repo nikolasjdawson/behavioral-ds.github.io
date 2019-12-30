@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. V. Jagadish | Behavioral Data Science</title>
+    <link>/authors/h.-v.-jagadish/</link>
+      <atom:link href="/authors/h.-v.-jagadish/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. V. Jagadish</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>H. V. Jagadish</title>
+      <link>/authors/h.-v.-jagadish/</link>
+    </image>
+    
+    <item>
+      <title>GOTO Rankings Considered Helpful</title>
+      <link>/publication/berger-2019-grc-3342113-3332803/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/berger-2019-grc-3342113-3332803/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

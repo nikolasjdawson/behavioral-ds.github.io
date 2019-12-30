@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian W Kernighan | Behavioral Data Science</title>
+    <link>/authors/brian-w-kernighan/</link>
+      <atom:link href="/authors/brian-w-kernighan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian W Kernighan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 1987 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Brian W Kernighan</title>
+      <link>/authors/brian-w-kernighan/</link>
+    </image>
+    
+    <item>
+      <title>AMPL: A mathematical programming language</title>
+      <link>/publication/fourer-1987-ampl/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>/publication/fourer-1987-ampl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

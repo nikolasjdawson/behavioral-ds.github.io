@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nan Du | Behavioral Data Science</title>
+    <link>/authors/nan-du/</link>
+      <atom:link href="/authors/nan-du/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nan Du</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Nan Du</title>
+      <link>/authors/nan-du/</link>
+    </image>
+    
+    <item>
+      <title>Recurrent marked temporal point processes: Embedding event history to vector</title>
+      <link>/publication/du-2016-recurrent/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/du-2016-recurrent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

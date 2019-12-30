@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apostol Natsev | Behavioral Data Science</title>
+    <link>/authors/apostol-natsev/</link>
+      <atom:link href="/authors/apostol-natsev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Apostol Natsev</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Apostol Natsev</title>
+      <link>/authors/apostol-natsev/</link>
+    </image>
+    
+    <item>
+      <title>Tracking Large-Scale Video Remix in Real-World Events</title>
+      <link>/publication/41769/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/41769/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimedia Semantics: Interactions between Content and Community</title>
+      <link>/publication/sundaram-2012-multimedia/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/sundaram-2012-multimedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Model Vectors for Complex Video Event Recognition</title>
+      <link>/publication/merler-2012-semantic/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/merler-2012-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media Use by Government: From the Routine to The Critical</title>
+      <link>/publication/kavanaugh-2012-social/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/kavanaugh-2012-social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking Visual Memes in Rich-Media Social Communities</title>
+      <link>/publication/xie-2011-tracking/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/xie-2011-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Memes in Social Media: Tracking Real-world News in Youtube Videos</title>
+      <link>/publication/xie-2011-visual/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/xie-2011-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Visual Concept Trees</title>
+      <link>/publication/xie-2010-probabilistic/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/xie-2010-probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Accuracy and Value of Machine-generated Image Tags: Design and User Evaluation of an End-to-end Image Tagging System</title>
+      <link>/publication/xie-2010-accuracy/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/xie-2010-accuracy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

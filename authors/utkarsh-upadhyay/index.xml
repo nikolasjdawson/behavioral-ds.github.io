@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utkarsh Upadhyay | Behavioral Data Science</title>
+    <link>/authors/utkarsh-upadhyay/</link>
+      <atom:link href="/authors/utkarsh-upadhyay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Utkarsh Upadhyay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Utkarsh Upadhyay</title>
+      <link>/authors/utkarsh-upadhyay/</link>
+    </image>
+    
+    <item>
+      <title>Redqueen: An online algorithm for smart broadcasting in social networks</title>
+      <link>/publication/zarezade-2017-redqueen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zarezade-2017-redqueen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steering Social Activity: A Stochastic Optimal Control Point Of View.</title>
+      <link>/publication/zarezade/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zarezade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent marked temporal point processes: Embedding event history to vector</title>
+      <link>/publication/du-2016-recurrent/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/du-2016-recurrent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

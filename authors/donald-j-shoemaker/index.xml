@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donald J Shoemaker | Behavioral Data Science</title>
+    <link>/authors/donald-j-shoemaker/</link>
+      <atom:link href="/authors/donald-j-shoemaker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Donald J Shoemaker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Donald J Shoemaker</title>
+      <link>/authors/donald-j-shoemaker/</link>
+    </image>
+    
+    <item>
+      <title>Social Media Use by Government: From the Routine to The Critical</title>
+      <link>/publication/kavanaugh-2012-social/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/kavanaugh-2012-social/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

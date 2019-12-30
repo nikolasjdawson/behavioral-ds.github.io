@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harold Soh | Behavioral Data Science</title>
+    <link>/authors/harold-soh/</link>
+      <atom:link href="/authors/harold-soh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Harold Soh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Harold Soh</title>
+      <link>/authors/harold-soh/</link>
+    </image>
+    
+    <item>
+      <title>Z-Transforms and its Inference on Partially Observable Point Processes.</title>
+      <link>/publication/lee-2018-z/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lee-2018-z/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

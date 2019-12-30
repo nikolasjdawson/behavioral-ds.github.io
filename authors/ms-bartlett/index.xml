@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MS Bartlett | Behavioral Data Science</title>
+    <link>/authors/ms-bartlett/</link>
+      <atom:link href="/authors/ms-bartlett/index.xml" rel="self" type="application/rss+xml" />
+    <description>MS Bartlett</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 1949 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>MS Bartlett</title>
+      <link>/authors/ms-bartlett/</link>
+    </image>
+    
+    <item>
+      <title>Some evolutionary stochastic processes</title>
+      <link>/publication/bartlett-1949-some/</link>
+      <pubDate>Sat, 01 Jan 1949 00:00:00 +0000</pubDate>
+      <guid>/publication/bartlett-1949-some/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

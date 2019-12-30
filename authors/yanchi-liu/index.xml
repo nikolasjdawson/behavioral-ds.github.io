@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanchi Liu | Behavioral Data Science</title>
+    <link>/authors/yanchi-liu/</link>
+      <atom:link href="/authors/yanchi-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanchi Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Yanchi Liu</title>
+      <link>/authors/yanchi-liu/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Graph Regularized Multi-dimensional Hawkes Processes for Modeling Events with Spatio-temporal Characteristics.</title>
+      <link>/publication/liu-2018-exploiting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2018-exploiting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

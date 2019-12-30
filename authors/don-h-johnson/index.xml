@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Don H Johnson | Behavioral Data Science</title>
+    <link>/authors/don-h-johnson/</link>
+      <atom:link href="/authors/don-h-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Don H Johnson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Don H Johnson</title>
+      <link>/authors/don-h-johnson/</link>
+    </image>
+    
+    <item>
+      <title>Point process models of single-neuron discharges</title>
+      <link>/publication/johnson-1996-point/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/johnson-1996-point/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

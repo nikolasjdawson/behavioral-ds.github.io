@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suvash Sedhain | Behavioral Data Science</title>
+    <link>/authors/suvash-sedhain/</link>
+      <atom:link href="/authors/suvash-sedhain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suvash Sedhain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Suvash Sedhain</title>
+      <link>/authors/suvash-sedhain/</link>
+    </image>
+    
+    <item>
+      <title>Low-rank linear cold-start recommendation from social data</title>
+      <link>/publication/sedhain-2017-loco/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sedhain-2017-loco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autorec: Autoencoders meet collaborative filtering</title>
+      <link>/publication/sedhain-2015-autorec/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sedhain-2015-autorec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Collaborative Filtering for Cold-start Recommendations</title>
+      <link>/publication/sedhain-2014-scf-2645710-2645772/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/sedhain-2014-scf-2645710-2645772/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Affinity Filtering: Recommendation Through Fine-grained Analysis of User Interactions and Activities</title>
+      <link>/publication/sedhain-2013-saf-2512938-2512947/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/sedhain-2013-saf-2512938-2512947/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

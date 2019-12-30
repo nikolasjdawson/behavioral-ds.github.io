@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin T Readshaw | Behavioral Data Science</title>
+    <link>/authors/benjamin-t-readshaw/</link>
+      <atom:link href="/authors/benjamin-t-readshaw/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benjamin T Readshaw</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Benjamin T Readshaw</title>
+      <link>/authors/benjamin-t-readshaw/</link>
+    </image>
+    
+    <item>
+      <title>Influence Flowers of Academic Entities</title>
+      <link>/publication/shin-2019-influence/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/shin-2019-influence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

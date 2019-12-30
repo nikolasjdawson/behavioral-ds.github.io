@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John R Kender | Behavioral Data Science</title>
+    <link>/authors/john-r-kender/</link>
+      <atom:link href="/authors/john-r-kender/index.xml" rel="self" type="application/rss+xml" />
+    <description>John R Kender</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>John R Kender</title>
+      <link>/authors/john-r-kender/</link>
+    </image>
+    
+    <item>
+      <title>Tracking Visual Memes in Rich-Media Social Communities</title>
+      <link>/publication/xie-2011-tracking/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/xie-2011-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Memes in Social Media: Tracking Real-world News in Youtube Videos</title>
+      <link>/publication/xie-2011-visual/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/xie-2011-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Genetics: a Case Study from Youtube</title>
+      <link>/publication/kender-2010-video/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/kender-2010-video/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
