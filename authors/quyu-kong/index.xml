@@ -1,90 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Behavioral Data Science</title>
-    <link>/authors/quyu-kong/</link>
-      <atom:link href="/authors/quyu-kong/index.xml" rel="self" type="application/rss+xml" />
-    <description>Behavioral Data Science</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/logo.png</url>
-      <title>Behavioral Data Science</title>
-      <link>/authors/quyu-kong/</link>
-    </image>
-    
-    <item>
-      <title>Modeling Information Cascades with Self-exciting Processes via Generalized Epidemic Models</title>
-      <link>/publication/kong-2020-modeling/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/kong-2020-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Epidemic Hawkes: an example project</title>
-      <link>/project/project1/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/project/project1/</guid>
-      <description>&lt;p&gt;This is an example project description&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>/post/test2/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/post/test2/</guid>
-      <description>&lt;h2 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Behavioral Data Science</title><link>https://bds.github.io/authors/quyu-kong/</link><atom:link href="https://bds.github.io/authors/quyu-kong/index.xml" rel="self" type="application/rss+xml"/><description>Behavioral Data Science</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://bds.github.io/img/logo.png</url><title>Behavioral Data Science</title><link>https://bds.github.io/authors/quyu-kong/</link></image><item><title>Modeling Information Cascades with Self-exciting Processes via Generalized Epidemic Models</title><link>https://bds.github.io/publication/kong-2020-modeling/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://bds.github.io/publication/kong-2020-modeling/</guid><description/></item><item><title>Epidemic Hawkes: an example project</title><link>https://bds.github.io/project/project1/</link><pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate><guid>https://bds.github.io/project/project1/</guid><description>&lt;p&gt;This is an example project description&lt;/p&gt;</description></item><item><title>Test</title><link>https://bds.github.io/post/test2/</link><pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate><guid>https://bds.github.io/post/test2/</guid><description>
+&lt;h2 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h2&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;When you click the &lt;strong&gt;Knit&lt;/strong&gt; button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;summary(cars)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
+&lt;pre&gt;&lt;code&gt;## speed dist
+## Min. : 4.0 Min. : 2.00
+## 1st Qu.:12.0 1st Qu.: 26.00
+## Median :15.0 Median : 36.00
+## Mean :15.4 Mean : 42.98
+## 3rd Qu.:19.0 3rd Qu.: 56.00
+## Max. :25.0 Max. :120.00
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;including-plots&#34;&gt;Including Plots&lt;/h2&gt;
 &lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/test2_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Linking Epidemic Models and Hawkes Point Processes for Modeling Information Diffusion</title>
-      <link>/publication/kong-2019-linking/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/kong-2019-linking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SIR-Hawkes: Linking Epidemic Models and Hawkes Processes to Model Diffusions in Finite Populations</title>
-      <link>/publication/rizoiu-2018-sir/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/rizoiu-2018-sir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SIR-Hawkes: on the Relationship Between Epidemic Models and Hawkes Point Processes</title>
-      <link>/publication/rizoiu-2017-c/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/rizoiu-2017-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Will This Video Go Viral? Explaining and Predicting the Popularity of Youtube Videos</title>
-      <link>/publication/kong-2018-will/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/kong-2018-will/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;&lt;img src=&#34;https://bds.github.io/post/test2_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;</description></item><item><title>Linking Epidemic Models and Hawkes Point Processes for Modeling Information Diffusion</title><link>https://bds.github.io/publication/kong-2019-linking/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://bds.github.io/publication/kong-2019-linking/</guid><description/></item><item><title>SIR-Hawkes: Linking Epidemic Models and Hawkes Processes to Model Diffusions in Finite Populations</title><link>https://bds.github.io/publication/rizoiu-2018-sir/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://bds.github.io/publication/rizoiu-2018-sir/</guid><description/></item><item><title>SIR-Hawkes: on the Relationship Between Epidemic Models and Hawkes Point Processes</title><link>https://bds.github.io/publication/rizoiu-2017-c/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://bds.github.io/publication/rizoiu-2017-c/</guid><description/></item><item><title>Will This Video Go Viral? Explaining and Predicting the Popularity of Youtube Videos</title><link>https://bds.github.io/publication/kong-2018-will/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://bds.github.io/publication/kong-2018-will/</guid><description/></item></channel></rss>
