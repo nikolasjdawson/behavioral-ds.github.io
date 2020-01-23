@@ -1,0 +1,130 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $autolink := default true $page.Params.autolink }}
+{{ $data := site.Params }}
+
+<!-- Contact widget -->
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    {{ with $page.Content }}{{ . }}{{ end }}
+
+    {{ if $page.Params.email_form }}
+
+    {{ $post_action := "" }}
+    {{ if eq $page.Params.email_form 1 }}
+      {{ $post_action = "netlify" }}
+    {{ else }}
+      {{ if not $data.email }}
+        {{ errorf "Please set an email address for the contact form using the `email` parameter in `params.toml`. Otherwise, set `email_form = 0` to disable the contact form." }}
+      {{ end }}
+      {{ $post_action = printf "action=\"https://formspree.io/%s\"" $data.email }}
+    {{end}}
+
+    <div class="mb-3">
+      <form name="contact" method="POST" {{ $post_action | safeHTMLAttr }}>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputName">{{ i18n "contact_name" }}</label>
+          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="{{ i18n "contact_name" | default "Name" }}" required>
+        </div>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputEmail">{{ i18n "contact_email" }}</label>
+          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="{{ i18n "contact_email" | default "Email" }}" required>
+        </div>
+        <div class="form-group">
+          <label class="sr-only" for="inputMessage">{{ i18n "contact_message" }}</label>
+          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="{{ i18n "contact_message" | default "Message" }}" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-outline-primary px-3 py-2">{{ i18n "contact_send" | default "Send" }}</button>
+      </form>
+    </div>
+    {{end}}
+
+    <ul class="fa-ul">
+
+      {{ if and $data.email (not $page.Params.email_form) }}
+      <li>
+        <i class="fa-li fas fa-envelope" style='font-size:1.6rem' aria-hidden="true"></i>
+        <span id="person-email">
+        {{- if $autolink }}<a href="mailto:{{ $data.email }}">{{ $data.email }}</a>{{ else }}{{ $data.email }}{{ end -}}
+        </span>
+      </li>
+      {{ end }}
+
+      {{ with $data.phone }}
+      <li>
+        <i class="fa-li fas fa-phone" style='font-size:1.6rem' aria-hidden="true"></i>
+        <span id="person-telephone">
+        {{- if $autolink }}<a href="tel:{{ . }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}
+        </span>
+      </li>
+      {{ end }}
+
+      {{ $addr_formatted := "" }}{{/* Scoping for maps. */}}
+      {{ if $data.address.street | or $data.address.city | or $data.address.region | or $data.address.postcode | or $data.address.country }}
+        {{ $addr_formatted = partial "functions/get_address" (dict "root" . "address" $data.address) }}
+        <li>
+          <i class="fa-li fas fa-map-marker" style='font-size:1.6rem' aria-hidden="true"></i>
+          <span id="person-address">{{$addr_formatted}}</span>
+        </li>
+      {{ end }}
+
+      {{ with $data.directions }}
+      <li>
+        <i class="fa-li fas fa-compass" style='font-size:1.6rem' aria-hidden="true"></i>
+        <span>{{ . | markdownify | emojify }}</span>
+      </li>
+      {{ end }}
+
+      {{ with $data.office_hours }}
+      <li>
+        <i class="fa-li fas fa-clock" style='font-size:1.6rem' aria-hidden="true"></i>
+        <span>
+          {{- if not (reflect.IsSlice .)}}{{/* Support legacy string format. */}}
+            {{- . | markdownify | emojify -}}
+          {{else}}
+            {{- delimit . "<br>" | markdownify | emojify -}}
+          {{end -}}
+        </span>
+      </li>
+      {{ end }}
+
+      {{ with $data.appointment_url }}
+      <li>
+        <i class="fa-li fas fa-calendar-check" style='font-size:1.6rem' aria-hidden="true"></i>
+        <a href="{{ . }}" target="_blank" rel="noopener">{{ i18n "book_appointment" | default "Book an appointment" }}</a>
+      </li>
+      {{ end }}
+
+      {{/* Contact links. */}}
+      {{ range $data.contact_links }}
+      {{ $pack := or .icon_pack "fas" }}
+      {{ $pack_prefix := $pack }}
+      {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+        {{ $pack_prefix = "fa" }}
+      {{ end }}
+      {{ $link := .link }}
+      {{ $scheme := (urls.Parse $link).Scheme }}
+      {{ $target := "" }}
+      {{ if not $scheme }}
+        {{ $link = .link | relLangURL }}
+      {{ else if in (slice "http" "https") $scheme }}
+        {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+      {{ end }}
+      <li>
+        <i class="fa-li {{ $pack }} {{ $pack_prefix }}-{{ .icon }}" style='font-size:1.6rem' aria-hidden="true"></i>
+        <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{.name|markdownify|emojify|safeHTML}}</a>
+      </li>
+      {{ end }}
+
+    </ul>
+
+    {{ if and site.Params.map.engine $data.coordinates.latitude }}
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.2239672121095!2d151.19808541531592!3d-33.88388528065194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12ae2647d03b39%3A0xc48ec5863d7d628c!2sUTS%20Central%20(Building%202)!5e0!3m2!1sen!2sau!4v1577661350978!5m2!1sen!2sau" width="400" height="250" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+    {{ end }}
+
+  </div>
+</div>
