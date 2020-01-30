@@ -5,7 +5,7 @@ authors:
 date: "2019-11-12"
 output: html_document
 tags: [R]
-categories: [posts]
+categories: [project]
 
 links:
 - icon: github-alt
