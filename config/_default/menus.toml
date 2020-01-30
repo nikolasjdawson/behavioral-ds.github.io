@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Publications"
+  name = "Publication"
   url = "/publication"
   weight = 20
 
@@ -27,6 +27,11 @@
   name = "News"
   url = "/news"
   weight = 50
+
+[[main]]
+  name = "Tool"
+  url = "/tool"
+  weight = 55
 
 [[main]]
   name = "Contact"
