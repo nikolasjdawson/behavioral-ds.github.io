@@ -38,23 +38,23 @@ title: "Publications"
             <span class="journal"></span>,
           </span>
           <span class="year"></span>
-          <span class="if url" style="margin-left: 2px; font-size:16px">
+          <span class="if url" style="margin-left: 5px; font-size:16px">
             <a class="url" target="_blank">
               <i class="fas fa-link" style="color:black;"></i></a>
           </span>
-          <span class="if url_paper" style="margin-left: 2px; font-size:16px">
+          <span class="if url_paper" style="margin-left: 5px; font-size:16px">
             <a class="url_paper" target="_blank">
             <i class="fas fa-file-alt" style="color:black;"></i></a>
           </span>
-          <span class="if url_code" style="margin-left: 2px; font-size:16px">
+          <span class="if url_code" style="margin-left: 5px; font-size:16px">
             <a class="url_code" target="_blank">
               <i class="fab fa-github" style="color:black;"></i></a>
           </span>
-          <span class="if url_slides" style="margin-left: 2px; font-size:16px">
+          <span class="if url_slides" style="margin-left: 5px; font-size:16px">
             <a class="url_slides" target="_blank">
               <i class="far fa-newspaper" style="color:black;"></i></a>
           </span>
-          <span class="if abstract" style="margin-left: 2px;">
+          <span class="if abstract" style="margin-left: 5px;">
             <div class="morepage" >
               <span class="bibtexkey"></span>
               <span class="abstract noread"></span>
