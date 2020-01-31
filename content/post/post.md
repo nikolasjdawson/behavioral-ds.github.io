@@ -3,17 +3,17 @@
 # This section displays recent blog posts from `content/post/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 hide_title = true
 
-title = "Media Coverage"
+title = "Blog posts"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "newspost"
+  page_type = "blogpost"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -27,7 +27,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "mediapost"
+    category = "blogpost"
     publication_type = ""
     exclude_featured = false
   

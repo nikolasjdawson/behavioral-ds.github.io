@@ -66,11 +66,13 @@
 {{ end }}
 
 <div class="row">
+  {{ if not $st.Params.hide_title }}
   <div class="col-12 col-lg-4 section-heading">
     <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
-  <div class="col-12 col-lg-8">
+  {{end}}
+  <div class="col-12 {{ if $st.Params.hide_title }}col-lg-12{{else}}col-lg-8{{end}}">
 
     {{ with $st.Content }}{{ . }}{{ end }}
 
