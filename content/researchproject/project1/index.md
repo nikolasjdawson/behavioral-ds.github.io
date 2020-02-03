@@ -12,6 +12,8 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/florianakos/aws_lambda_s3_sqs_cw
+header:
+  image: "featured.png"
 ---
 
 

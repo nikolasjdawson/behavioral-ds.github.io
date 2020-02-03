@@ -12,6 +12,8 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/behavioral-ds/evently
+header:
+  image: "featured2.png"
 ---
 
 ## Introduction
