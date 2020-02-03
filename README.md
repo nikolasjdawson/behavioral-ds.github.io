@@ -5,6 +5,7 @@ Please make sure you have installed the `hugo` ([v0.60.1](https://github.com/goh
 
 ## Content management
 Adding a new piece of content to any pages can be done by adding a new post to the corresponding directories within the `content` folder. The following table shows the page and its corresponding folder
+
 |   Page   | Home           |       People      |      Publication      |          Research         | Blog               | News               | Tool                   |
 |:--------:|----------------|:-----------------:|:---------------------:|:-------------------------:|--------------------|--------------------|------------------------|
 | Location | `content/home` | `content/authors` | `content/publication` | `content/researchproject` | `content/blogpost` | `content/newspost` | `content/softwaretool` |
