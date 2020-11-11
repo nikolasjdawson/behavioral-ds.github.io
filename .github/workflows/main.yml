@@ -14,7 +14,7 @@ jobs:
     - name: Deploy 🚀
       uses: chabad360/hugo-gh-pages@master
       with:
-        githubToken: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        githubToken: ${{ secrets.DEPLOY_TOKEN }}
         cname: www.behavioral-ds.ml
         branch: master
         hugoVersion: 0.60.1
