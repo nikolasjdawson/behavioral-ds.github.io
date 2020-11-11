@@ -18,7 +18,7 @@ organizations:
 - name: University of Technology Sydney
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a undergradute student who are doing honours project under the supervision of Dr. Marian-Andrei Rizoiu
+bio: I am currently a undergradute student doing honours project under the supervision of Dr. Marian-Andrei Rizoiu
 
 interests:
 - Artificial Intelligence
