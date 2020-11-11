@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Behavioural Data Science"
+title = "Behavioral Data Science"
 subtitle = ""
 
 [design]
@@ -50,11 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the homepage of the Behavioural Data Science lab at the University of Technology Sydney.  We develop core methods in machine learning and optimization. We also formulate and solve problems in understanding online behavior, multimedia and the broader implications of machine intelligence. (copied dummy text)
+Welcome to the homepage of the Behavioral Data Science lab at the University of Technology Sydney.  We develop core methods in machine learning and optimization. We also formulate and solve problems in understanding online behavior, multimedia and the broader implications of machine intelligence. (copied dummy text)
 
 Recent News:
   - test1
   - test2
   - test3
-  - test4
+  - test33
 
