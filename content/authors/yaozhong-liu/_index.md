@@ -47,9 +47,10 @@ social:
 #  one of ["Principal Investigators",
 #                  "Researchers",
 #                  "PhD Students",
+#                  "Honours Students",
 #                  "Administration",
 #                  "Visitors",
 #                  "Alumni"]
 user_groups:
-- Undergraduate Students
+- Honours Students
 ---
