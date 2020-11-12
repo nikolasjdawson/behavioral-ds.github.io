@@ -18,7 +18,7 @@ organizations:
 - name: University of Technology Sydney
 
 # Short bio (displayed in user profile at end of posts)
-bio: Rohit studies the spread of influence and discourse, at the University of Technology Sydney
+bio: Alexander is a research assistant studying information diffusion and Hawkes processes at University of Technology Sydney. He also works with Data61 and the Australian National University on fairness and boosting.
 
 interests:
 - Information Diffusion
