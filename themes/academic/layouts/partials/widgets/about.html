@@ -75,6 +75,13 @@
 
     <div class="row">
 
+      {{ with $person.bio }}
+      <div class="col-md-11">
+        <h3></h3>
+        <p>{{ . | markdownify | emojify }}</p>
+      </div>
+      {{ end }}
+
       {{ with $person.interests }}
       <div class="col-md-5">
         <h3>{{ i18n "interests" | markdownify }}</h3>
