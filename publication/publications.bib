@@ -254,8 +254,9 @@
     title = {Estimating Attention Flow in Online Video Networks},
     year = {2019},
     abstract = {Online videos have shown tremendous increase in Internet traffic. Most video hosting sites implement recommender systems, which connect the videos into a directed network and conceptually act as a source of pathways for users to navigate. At present, little is known about how human attention is allocated over such large-scale networks, and about the impacts of the recommender systems. In this paper, we first construct the Vevo network -- a YouTube video network with 60,740 music videos interconnected by the recommendation links, and we collect their associated viewing dynamics. This results in a total of 310 million views every day over a period of 9 weeks. Next, we present large-scale measurements that connect the structure of the recommendation network and the video attention dynamics. We use the bow-tie structure to characterize the Vevo network and we find that its core component (23.1% of the videos), which occupies most of the attention (82.6% of the views), is made out of videos that are mainly recommended among themselves. This is indicative of the links between video recommendation and the inequality of attention allocation. Finally, we address the task of estimating the attention flow in the video recommendation network. We propose a model that accounts for the network effects for predicting video popularity, and we show it consistently outperforms the baselines. This model also identifies a group of artists gaining attention because of the recommendation network. Altogether, our observations and our models provide a new set of tools to better understand the impacts of recommender systems on collective social attention.},
+    url = {https://dl.acm.org/doi/10.1145/3359285},
     url_Abstract = {https://arxiv.org/abs/1908.07123},
-    url_Paper = {http://cm.cecs.anu.edu.au/documents/wu_cscw2019_network.pdf},
+    url_Paper = {https://arxiv.org/pdf/1908.07123.pdf},
     url_Data = {https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TORICY},
     url_Code = {https://github.com/avalanchesiqi/networked-popularity},
     url_Slides = {http://users.cecs.anu.edu.au/~siqi.wu/files/cscw2019slides.pdf},
@@ -286,7 +287,8 @@
     abstract={In the digital era, individuals are increasingly profiled and grouped based on the traces that they leave behind in online social networks such as Twitter and Facebook. In this paper, we develop and evaluate a novel text analysis approach for studying user identity and social roles by redefining identity as a sequence of timestamped items (e.g., tweet texts). We operationalise this idea by developing a novel text distance metric, the time-sensitive semantic edit distance (t-SED), which accounts for the temporal context across multiple traces. To evaluate this method, we undertake a case study of Russian online-troll activity within US political discourse. The novel metric allows us to classify the social roles of trolls based on their traces, in this case tweets, into one of the predefined categories left-leaning, right-leaning, and news feed. We show the effectiveness of the t-SED metric to measure the similarities between tweets while accounting for the temporal context, and we use novel data visualisation techniques and qualitative analysis to uncover new empirical insights into Russian troll activity that have not been identified in the previous work. In addition, we highlight a connection with the field of actor--network theory and the related hypotheses of Gabriel Tarde, and we discuss how social sequence analysis using t-SED may provide new avenues for tackling a longstanding problem in social theory: how to analyse society without separating reality into micro vs. macro-levels.},
     issn={2432-2725},
     doi={10.1007/s42001-019-00051-x},
-    url={https://doi.org/10.1007/s42001-019-00051-x}
+    url={https://doi.org/10.1007/s42001-019-00051-x},
+    url_paper = {https://arxiv.org/pdf/1901.05228.pdf}
 }
 
 @inproceedings{kong2019linking,
@@ -320,7 +322,7 @@
     year = {2018},
     abstract = {The share of videos in the internet traffic has been growing, therefore understanding how videos capture attention on a global scale is also of growing importance. Most current research focus on modeling the number of views, but we argue that video engagement, or time spent watching is a more appropriate measure for resource allocation problems in attention, networking, and promotion activities. In this paper, we present a first large-scale measurement of video-level aggregate engagement from publicly available data streams, on a collection of 5.3 million YouTube videos published over two months in 2016. We study a set of metrics including time and the average percentage of a video watched. We define a new metric, relative engagement, that is calibrated against video properties and strongly correlate with recognized notions of quality. Moreover, we find that engagement measures of a video are stable over time, thus separating the concerns for modeling engagement and those for popularity -- the latter is known to be unstable over time and driven by external promotions. We also find engagement metrics predictable from a cold-start setup, having most of its variance explained by video context, topics and channel information -- R2=0.77. Our observations imply several prospective uses of engagement metrics -- choosing engaging topics for video production, or promoting engaging videos in recommender systems.},
     url_Abstract = {https://arxiv.org/abs/1709.02541},
-    url_Paper = {http://cm.cecs.anu.edu.au/documents/wu_icwsm2018_engagement.pdf},
+    url_Paper = {https://arxiv.org/pdf/1709.02541.pdf},
     url_Code = {https://github.com/avalanchesiqi/youtube-engagement},
     url_Slides = {http://cm.cecs.anu.edu.au/documents/wu_icwsm2018_slides.pdf}
 }
@@ -402,18 +404,22 @@
     abstract = {Modeling and predicting the popularity of online content is a significant problem for the practice of information dissemination, advertising, and consumption. Recent work analyzing massive datasets advances our understanding of popularity, but one major gap remains: To precisely quantify the relationship between the popularity of an online item and the external promotions it receives. This work supplies the missing link between exogenous inputs from public social media platforms, such as Twitter, and endogenous responses within the content platform, such as YouTube. We develop a novel mathematical model, the Hawkes intensity process, which can explain the complex popularity history of each video according to its type of content, network of diffusion, and sensitivity to promotion. Our model supplies a prototypical description of videos, called an endo-exo map. This map explains popularity as the result of an extrinsic factor -- the amount of promotions from the outside world that the video receives, acting upon two intrinsic factors -- sensitivity to promotion, and inherent virality. We use this model to forecast future popularity given promotions on a large 5-months feed of the most-tweeted videos, and found it to lower the average error by 28.6% from approaches based on popularity history. Finally, we can identify videos that have a high potential to become viral, as well as those for which promotions will have hardly any effect.},
     url_Abstract={https://arxiv.org/abs/1602.06033},
     url_Paper = {https://arxiv.org/pdf/1602.06033},
+    url_slides = {https://www.rizoiu.eu/documents/research/presentations/RIZOIU_WWW-2017_slides.pdf},
+    url_code = {https://github.com/andrei-rizoiu/hip-popularity}
 }
 
 @inproceedings{Rizoiu2017promo,
     address = {Montreal, Canada},
     author = {Rizoiu, Marian-Andrei and Xie, Lexing},
     booktitle = {The International AAAI Conference on Web and Social Media (ICWSM)},
-    pages = {1--10},
+    pages = {182--191},
     title = {Online Popularity under Promotion: Viral Potential, Forecasting, and the Economics of Time},
     year = {2017},
     abstract = {Modeling the popularity dynamics of an online item is an important open problem in computational social science. This paper presents an in-depth study of popularity dynamics under external promotions, especially in predicting popularity jumps of online videos, and determining effective and efficient schedules to promote online content. The recently-proposed Hawkes Intensity Process (HIP) models popularity as a non-linear interplay between exogenous stimuli and the endogenous reaction. We propose two novel metrics based on HIP: to describe popularity gain per unit of promotion, and to quantify the time it takes for such effects to unfold. We make increasingly accurate forecasts of future popularity by including information about the intrinsic properties of the video, promotions it receives, and the non-linear effects of popularity ranking. We illustrate by simulation the interplay between the unfolding of popularity over time, and the time-sensitive value of resources. Lastly, our model lends a novel explanation of the commonly adopted periodic and constant promotion strategy in advertising, as increasing the perceived viral potential. This study provides quantitative guidelines about setting promotion schedules considering content virality, timing, and economics.},
     url_Abstract={https://arxiv.org/abs/1703.01012},
     url_Paper = {https://arxiv.org/pdf/1703.01012},
+    url_code = {https://github.com/andrei-rizoiu/hip-popularity},
+    url_slides = {https://www.rizoiu.eu/documents/research/presentations/RIZOIU_ICWSM-2017_slides.pdf}
 }
 
 @inproceedings{Mishra2016,
@@ -429,7 +435,8 @@
     url_Abstract={https://arxiv.org/abs/1608.04862},
     url_Paper = {https://arxiv.org/pdf/1608.04862.pdf},
     url_Presentation_Page = {http://cm.cecs.anu.edu.au/post/fdhawkesforpopularity/},
-    url_Slides = {http://cm.cecs.anu.edu.au/documents/smishra_cikm16_presentation.pdf}
+    url_Slides = {http://cm.cecs.anu.edu.au/documents/smishra_cikm16_presentation.pdf},
+    url_code = {https://git.io/v6rIN}
 }
 
 @inproceedings{Rizoiu2016,
@@ -447,3 +454,134 @@
     url_Paper = {http://arxiv.org/pdf/1512.03523.pdf}, % use this to distribute the link ot the paper. It can be either a http:// link or a local link relative to the bib file (somthing like publications/paper.pdf)
     url_Presentation_Page = {http://cm.cecs.anu.edu.au/post/wikiprivacy/}
 }
+
+@inproceedings{Mihaita2019,
+    abstract = {Congestion prediction represents a major priority for traffic management centres around the world to ensure timely incident response handling. The increasing amounts of generated traffic data have been used to train machine learning predictors for traffic, however this is a challenging task due to inter-dependencies of traffic flow both in time and space. Recently, deep learning techniques have shown significant prediction improvements over traditional models, however open questions remain around their applicability, accuracy and parameter tuning. This paper proposes an advanced deep learning framework for simultaneously predicting the traffic flow on a large number of monitoring stations along a highly circulated motorway in Sydney, Australia, including exit and entry loop count stations, and over varying training and prediction time horizons. The spatial and temporal features extracted from the 36.34 million data points are used in various deep learning architectures that exploit their spatial structure (convolutional neuronal networks), their temporal dynamics (recurrent neuronal networks), or both through a hybrid spatio-temporal modelling (CNN-LSTM). We show that our deep learning models consistently outperform traditional methods, and we conduct a comparative analysis of the optimal time horizon of historical data required to predict traffic flow at different time points in the future.},
+    address = {Auckland, New Zealand},
+    archivePrefix = {arXiv},
+    arxivId = {1907.06356},
+    author = {Mihaita, Adriana-Simona A.-S. and Li, Haowen and He, Zongyang and Rizoiu, Marian-Andrei M.-A.},
+    booktitle = {2019 IEEE Intelligent Transportation Systems Conference (ITSC)},
+    doi = {10.1109/ITSC.2019.8916852},
+    eprint = {1907.06356},
+    URL_paper = {https://arxiv.org/pdf/1907.06356.pdf},
+    isbn = {978-1-5386-7024-8},
+    keywords = {,BPNN,CNN,Deep learning,LSTM,Motorway flow predicting,Short- versus long-term prediction},
+    month = {oct},
+    pages = {1683--1690},
+    publisher = {IEEE},
+    title = {{Motorway Traffic Flow Prediction using Advanced Deep Learning}},
+    url = {https://ieeexplore.ieee.org/document/8916852/},
+    year = {2019}
+}
+@article{Kern2020,
+    abstract = {Work is thought to be more enjoyable and beneficial to individuals and society when there is congruence between one's personality and one's occupation. We provide large-scale evidence that occupations have distinctive psychological profiles, which can successfully be predicted from linguistic information unobtrusively collected through social media. Based on 128,279 Twitter users representing 3,513 occupations, we automatically assess user personalities and visually map the personality profiles of different professions. Similar occupations cluster together, pointing to specific sets of jobs that one might be well suited for. Observations that contradict existing classifications may point to emerging occupations relevant to the 21st century workplace. Findings illustrate how social media can be used to match people to their ideal occupation.},
+    author = {Kern, Margaret L. and McCarthy, Paul X. and Chakrabarty, Deepanjan and Rizoiu, Marian-Andrei},
+    doi = {10.1073/pnas.1917942116},
+    URL_paper = {https://www.pnas.org/content/pnas/116/52/26459.full.pdf},
+    issn = {0027-8424},
+    journal = {Proceedings of the National Academy of Sciences},
+    month = {dec},
+    number = {52},
+    pages = {26459--26464},
+    title = {{Social media-predicted personality traits and values can help match people to their ideal jobs}},
+    url = {http://www.pnas.org/lookup/doi/10.1073/pnas.1917942116},
+    volume = {116},
+    year = {2019},
+    URL_code = {https://github.com/behavioral-ds/VocationMap}
+}
+@inproceedings{Mihaita2019a,
+    abstract = {Predicting traffic incident duration is a major challenge for many traffic centres around the world. Most research studies focus on predicting the incident duration on motorways rather than arterial roads, due to a high network complexity and lack of data. In this paper we propose a bi-level framework for predicting the accident duration on arterial road networks in Sydney, based on operational requirements of incident clearance target which is less than 45 minutes. Using incident baseline information, we first deploy a classification method using various ensemble tree models in order to predict whether a new incident will be cleared in less than 45min or not. If the incident was classified as short-term, then various regression models are developed for predicting the actual incident duration in minutes by incorporating various traffic flow features. After outlier removal and intensive model hyper-parameter tuning through randomized search and cross-validation, we show that the extreme gradient boost approach outperformed all models, including the gradient-boosted decision-trees by almost 53{\%}. Finally, we perform a feature importance evaluation for incident duration prediction and show that the best prediction results are obtained when leveraging the real-time traffic flow in vicinity road sections to the reported accident location.},
+    address = {Singapore},
+    archivePrefix = {arXiv},
+    arxivId = {1905.12254},
+    author = {Mihaita, Adriana-Simona and Liu, Zheyuan and Cai, Chen and Rizoiu, Marian-Andrei},
+    booktitle = {Proceedings of the 26th ITS World Congress},
+    eprint = {1905.12254},
+    URL_paper = {http://arxiv.org/pdf/1905.12254.pdf},
+    month = {may},
+    pages = {1--12},
+    title = {{Arterial incident duration prediction using a bi-level framework of extreme gradient-tree boosting}},
+    url = {http://arxiv.org/abs/1905.12254},
+    year = {2019}
+}
+@inproceedings{Ram2019,
+    address = {Adelaide, Australia},
+    author = {Ram, Rohit and Rizoiu, Marian-Andrei},
+    booktitle = {Australian Social Network Analysis Conference (ASNAC'19)},
+    URL_paper = {https://opus.lib.uts.edu.au/bitstream/10453/137931/1/main.pdf},
+    pages = {2},
+    title = {{A social science-grounded approach for quantifying online social influence}},
+    year = {2019}
+}
+
+@inproceedings{Dawson2019,
+    abstract = {Labour demand and skill shortages have historically been difficult to assess given the high costs of conducting representative surveys and the inherent delays of these indicators. This is particularly consequential for fast developing skills and occupations, such as those relating to Data Science and Analytics (DSA). This paper develops a data-driven solution to detecting skill shortages from online job advertisements (ads) data. We first propose a method to generate sets of highly similar skills based on a set of seed skills from job ads. This provides researchers with a novel method to adaptively select occupations based on granular skills data. Next, we apply this adaptive skills similarity technique to a dataset of over 6.7 million Australian job ads in order to identify occupations with the highest proportions of DSA skills. This uncovers 306,577 DSA job ads across 23 occupational classes from 2012-2019. Finally, we propose five variables for detecting skill shortages from online job ads: (1) posting frequency; (2) salary levels; (3) education requirements; (4) experience demands; and (5) job ad posting predictability. This contributes further evidence to the goal of detecting skills shortages in real-time. In conducting this analysis, we also find strong evidence of skills shortages in Australia for highly technical DSA skills and occupations. These results provide insights to Data Science researchers, educators, and policy-makers from other advanced economies about the types of skills that should be cultivated to meet growing DSA labour demands in the future.},
+    address = {Los Angeles, CA, USA},
+    archivePrefix = {arXiv},
+    arxivId = {1911.02302},
+    author = {Dawson, Nikolas and Rizoiu, Marian-Andrei and Johnston, Benjamin and Williams, Mary-Anne},
+    booktitle = {2019 IEEE International Conference on Big Data (Big Data)},
+    doi = {10.1109/BigData47090.2019.9005967},
+    eprint = {1911.02302},
+    URL_paper = {http://arxiv.org/pdf/1911.02302.pdf},
+    isbn = {978-1-7281-0858-2},
+    keywords = {Big Data,Data Science,Labour Demand,Online Job Advertisements,Skill Shortages},
+    month = {dec},
+    pages = {1637--1643},
+    publisher = {IEEE},
+    title = {{Adaptively selecting occupations to detect skill shortages from online job ads}},
+    url = {https://ieeexplore.ieee.org/document/9005967/},
+    year = {2019}
+}
+@inproceedings{Zhang2020,
+    abstract = {The Hawkes process has been widely applied to modeling self-exciting events, including neuron spikes, earthquakes and tweets. To avoid designing parametric kernel functions and to be able to quantify the prediction confidence, non-parametric Bayesian Hawkes processes have been proposed. However the inference of such models suffers from unscalability or slow convergence. In this paper, we first propose a new non-parametric Bayesian Hawkes process whose triggering kernel is modeled as a squared sparse Gaussian process. Second, we present the variational inference scheme for the model optimization, which has the advantage of linear time complexity by leveraging the stationarity of the triggering kernel. Third, we contribute a tighter lower bound than the evidence lower bound of the marginal likelihood for the model selection. Finally, we exploit synthetic data and large-scale social media data to validate the efficiency of our method and the practical utility of our approximate marginal likelihood. We show that our approach outperforms state-of-the-art non-parametric Bayesian and non-Bayesian methods.},
+    address = {New York, New York, USA},
+    annote = {(CoRE: A*, H5: , a.r.: )},
+    archivePrefix = {arXiv},
+    arxivId = {1905.10496},
+    author = {Zhang, Rui and Walder, Christian and Rizoiu, Marian-Andrei},
+    booktitle = {AAAI Conference on Artificial Intelligence (AAAI'20)},
+    eprint = {1905.10496},
+    URL_paper = {http://arxiv.org/pdf/1905.10496.pdf},
+    month = {may},
+    title = {{Variational Inference for Sparse Gaussian Process Modulated Hawkes Process}},
+    url = {https://doi.org/10.1609/aaai.v34i04.6160},
+    year = {2020}
+}
+@inproceedings{Zhang2020a,
+    abstract = {Approximate inference techniques are a cornerstone of the study of Gaussian Processes. Despite this, most work approximately optimises divergence measures (Kullback-Leibler (KL), $\alpha$-divergence, etc.) which lack the basic desiderata for the task at hand, while chiefly offering merely technical convenience. We develop a new approximate inference method for the Gaussian process which overcomes the technical challenges of abandoning these convenient divergences. Our method — dubbed Quantile Propagation (QP) — is similar to expectation propagation (EP) but minimizes the L 2 Wasserstein distance (WD). The WD exhibits all the required properties of a distance metric, while respecting the geometry of the underlying sample space. We show that QP matches quantile functions rather than moments as in EP and has the same mean update but a smaller variance update than EP, thereby alleviating the over-estimation of the posterior variance exhibited by EP. Crucially, despite the significant complexity in even evaluating the WD, our QP has the same favorable locality property as EP, and thereby admits an efficient algorithm. Experiments on classification and Poisson regression tasks demonstrate that QP outperforms both EP and variational Bayes.},
+    author = {Zhang, Rui and Walder, Christian and Bonilla, Edwin V. and Rizoiu, Marian-Andrei and Xie, Lexing},
+    booktitle = {Conference on Neural Information Processing Systems (NeurIPS'20)},
+    title = {{Quantile Propagation for Wasserstein-Approximate Gaussian Processes}},
+    url = {https://proceedings.neurips.cc//paper/2020/hash/f5e62af885293cf4d511ceef31e61c80-Abstract.html},
+    year = {2020},
+    url_paper = {https://papers.nips.cc/paper/2020/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf},
+    url_code = {https://github.com/RuiZhang2016/Quantile-Propagation-for-Wasserstein-Approximate-Gaussian-Processes}
+}
+@inproceedings{Mihaita2020,
+    abstract = {Traffic flow prediction, particularly in areas that experience highly dynamic flows such as motorways, is a major issue faced in traffic management. Due to increasingly large volumes of data sets being generated every minute, deep learning methods have been used extensively in the latest years for both short and long term prediction. However, such models, despite their efficiency, need large amounts of historical information to be provided, and they take a considerable amount of time and computing resources to train, validate and test. This paper presents two new spatial-temporal approaches for building accurate short-term prediction along a popular motorway in Sydney, by making use of the graph structure of the motorway network (including exits and entries). The methods are built on proximity-based approaches, denoted backtracking and interpolation, which uses the most recent and closest traffic flow information for each of the target counting stations along the motorway. The results indicate that for short-term predictions (less than 10 minutes into the future), the proposed graph-based approaches outperform state-of-the-art deep learning models, such as long-term short memory, convolutional neuronal networks or hybrid models.},
+    address = {Rhodes, Greece},
+    author = {Mihaita, Adriana-Simona and Papachatgis, Zac and Rizoiu, Marian-Andrei},
+    booktitle = {23rd IEEE International Conference on Intelligent Transportation Systems (ITSC'20)},
+    URL_paper = {https://arxiv.org/pdf/2006.14824},
+    pages = {1--8},
+    title = {{Graph modelling approaches for motorway traffic flow prediction}},
+    year = {2020}
+}
+
+@inproceedings{Wu2020,
+    abstract = {A comprehensive understanding of data bias is the cornerstone of mitigating biases in social media research. This paper presents in-depth measurements of the effects of Twitter data sampling across different timescales and different subjects (entities, networks, and cascades). By constructing two complete tweet streams, we show that Twitter rate limit message is an accurate measure for the volume of missing tweets. Despite sampling rates having clear temporal variations, we find that the Bernoulli process with a uniform rate well approximates Twitter data sampling, and it allows to estimate the ground-truth entity frequency and ranking with the observed sample data. In terms of network analysis, we observe significant structure changes in both the user-hashtag bipartite graph and the retweet network. Finally, we measure the retweet cascades. We identify risks for information diffusion models that rely on tweet inter-arrival times and user influence. This work calls attention to the social data bias caused by data collection, and proposes methods to measure the systematic biases introduced by sampling.},
+    archivePrefix = {arXiv},
+    arxivId = {2003.09557},
+    author = {Wu, Siqi and Rizoiu, Marian-Andrei and Xie, Lexing},
+    booktitle = {International AAAI Conference on Web and Social Media (ICWSM '20)},
+    eprint = {2003.09557},
+    month = {mar},
+    pages = {1----10},
+    title = {{Variation across Scales: Measurement Fidelity under Twitter Data Sampling}},
+    URL_paper = {https://arxiv.org/pdf/2003.09557.pdf},
+    URL_code = {https://github.com/avalanchesiqi/twitter-sampling},
+    year = {2020}
+}
+
