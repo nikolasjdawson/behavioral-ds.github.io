@@ -1,0 +1,20 @@
+@article{kong2020cikm,
+  author={Kong, Quyu and Rizoiu, Marian-Andrei and Xie, Lexing},
+  title={Describing and Predicting Online Items with Reshare Cascades via Dual Mixture Self-exciting Processes},
+  booktitle={ACM International Conference on Information and Knowledge Management (CIKM'20)},
+  pages={645--654},
+  year={2020},
+  url_Paper = {https://arxiv.org/pdf/2001.11132.pdf},
+  url_Code = {https://github.com/qykong/dual-mixture-hawkes-processes},
+  abstract = {It is well-known that online behavior is long-tailed, with most cascaded actions being short and a few being very long. A prominent drawback in generative models for online events is the inability to describe unpopular items well. This work addresses these shortcomings by proposing dual mixture self-exciting processes to jointly learn from groups of cascades. We first start from the observation that maximum likelihood estimates for content virality and influence decay are separable in a Hawkes process. Next, our proposed model, which leverages a Borel mixture model and a kernel mixture model, jointly models the unfolding of a heterogeneous set of cascades. When applied to cascades of the same online items, the model directly characterizes their spread dynamics and supplies interpretable quantities, such as content virality and content influence decay, as well as methods for predicting the final content popularities. On two retweet cascade datasets --- one relating to YouTube videos and the second relating to controversial news articles --- we show that our models capture the differences between online items at the granularity of items, publishers and categories. In particular, we are able to distinguish between far-right, conspiracy, controversial and reputable online news articles based on how they diffuse through social media, achieving an F1 score of 0.945. On holdout datasets, we show that the dual mixture model provides, for reshare diffusion cascades especially unpopular ones, better generalization performance and, for online items, accurate item popularity predictions.}
+}
+
+@inproceedings{kong2020modeling,
+  title={Modeling Information Cascades with Self-exciting Processes via Generalized Epidemic Models},
+  author={Kong, Quyu and Rizoiu, Marian-Andrei and Xie, Lexing},
+  booktitle={ACM International Conference on Web Search and Data Mining (WSDM)},
+  year={2020},
+  abstract = {Epidemic models and self-exciting processes are two types of models used to describe diffusion phenomena online and offline. These models were originally developed in different scientific communities, and their commonalities are under-explored. This work establishes, for the first time, a general connection between the two model classes via three new mathematical components. The first is a generalized version of stochastic Susceptible-Infected-Recovered (SIR) model with arbitrary recovery time distributions; the second is the relationship between the (latent and arbitrary) recovery time distribution, recovery hazard function, and the infection kernel of self-exciting processes; the third includes methods for simulating, fitting, evaluating and predicting the generalized process. On three large Twitter diffusion datasets, we conduct goodness-of-fit tests and holdout log-likelihood evaluation of self-exciting processes with three infection kernels --- exponential, power-law and Tsallis Q-exponential. We show that the modeling performance of the infection kernels varies with respect to the temporal structures of diffusions, and also with respect to user behavior, such as the likelihood of being bots. We further improve the prediction of popularity by combining two models that are identified as complementary by the goodness-of-fit tests.},
+  url_Paper = {https://arxiv.org/abs/1910.05451},
+  url_Code = {https://github.com/qykong/generalized-sir-and-hawkes}
+}
