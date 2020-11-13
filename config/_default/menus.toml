@@ -29,7 +29,7 @@
   weight = 50
 
 [[main]]
-  name = "Tool"
+  name = "Software"
   url = "/tool"
   weight = 55
 
