@@ -75,10 +75,15 @@
 
     <div class="row">
 
-      {{ with $person.bio }}
+      {{ with $person.body }}
       <div class="col-md-11">
         <h3></h3>
         <p>{{ . | markdownify | emojify }}</p>
+      </div>
+      {{ else }}
+      <div class="col-md-11">
+        <h3></h3>
+        <p>{{ $person.bio | markdownify | emojify }}</p>
       </div>
       {{ end }}
 
