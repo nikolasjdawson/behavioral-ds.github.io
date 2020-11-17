@@ -9,7 +9,7 @@
 An example of the importance of understanding causal relationships is given by Simpson’s Paradox &lt;span class="citation">(&lt;a href="#ref-simpson1951interpretation" role="doc-biblioref">Simpson 1951&lt;/a>)&lt;/span>, which describes a peculiar phenomenon that can present in data sets, where a correlation between two variables is present in one direction but reverses in each stratum of the data. The paradox expressed best through an example:
 &lt;label for="tufte-mn-" class="margin-toggle">⊕&lt;/label>&lt;input type="checkbox" id="tufte-mn-" class="margin-toggle">&lt;span class="marginnote">This appears to suggest that the more someone exercises, the higher their cholesterol is! This is absurd!&lt;/span>
 &lt;div class="figure">&lt;span id="fig:simpsons-before">&lt;/span>
-&lt;img src="index_files/figure-html/simpsons-before-1.png" alt="The results of an experiment, where x-axis represents how much exercise an individual does in hours, and y-axis represents cholestral measurment for the same individual." width="672" />
+&lt;img src="./index_files/figure-html/simpsons-before-1.png" alt="The results of an experiment, where x-axis represents how much exercise an individual does in hours, and y-axis represents cholestral measurment for the same individual." width="672" />
 &lt;p class="caption">
 Figure 1: The results of an experiment, where x-axis represents how much exercise an individual does in hours, and y-axis represents cholestral measurment for the same individual.
 &lt;/p>
