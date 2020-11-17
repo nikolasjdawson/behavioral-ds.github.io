@@ -1,5 +1,5 @@
 ---
-title: "Casual Inference: A basic taster"
+title: "Causal Inference: A basic taster"
 authors:
   - Rohit Ram
 date: "2020-11-12"
@@ -7,7 +7,7 @@ output:
   html_document:
     keep_tex: true
 css: tufte.css
-bibliography: ["casual.bib"]
+bibliography: ["causal.bib"]
 link-citations: true
 categories: [blogpost]
 commentable: true
@@ -164,7 +164,7 @@ probabilities <- data.table(p_aec %>%
   filter(chol) # We are only concerned with what cause high cholestral
 )
 
-# The average casual effect of exer on chol
+# The average causal effect of exer on chol
 ACE <- sum(probabilities[exer==T, freq]) - sum(probabilities[exer==F, freq]) 
 ```
 
@@ -249,7 +249,7 @@ simpsons %>%
 
 ## The Front-door {#front-door}
 
-There are notably common scenarios where this doesn't work. For example, consider a constructed casual mediation situation, as follows:
+There are notably common scenarios where this doesn't work. For example, consider a constructed causal mediation situation, as follows:
 ```{r, echo=F}
 smoking <- dagify(tar ~ smok,
                   cancer ~ tar,
@@ -280,5 +280,5 @@ In our smoking scenario, we see that by adjusting for _tar_ , we can observe the
 ## Conclusion
 The above briefly outlines a core motivation for studying causal inference and causal stories. We summarise some of the underlying theory of causal inference and show practical methodology through the _frontdoor_ and _backdoor_ criterion for determining causal effects through entirely observational studies. 
 
-There are notable aspects of causal inference we have omitted from this taster. The most gaping is the lack of an explanation for the powerful tool of counterfactuals. We have only presented binary examples here (aside from our motivating example); however, perhaps the most common and useful causal inference application is to continuous examples using regression with linear models. Ultimately, we decided this was beyond casual inference taster's scope and were more deserving of their own articles. Again, for the interested reader, we recommend @pearl2016causal, which adds links to many other resources.
+There are notable aspects of causal inference we have omitted from this taster. The most gaping is the lack of an explanation for the powerful tool of counterfactuals. We have only presented binary examples here (aside from our motivating example); however, perhaps the most common and useful causal inference application is to continuous examples using regression with linear models. Ultimately, we decided this was beyond causal inference taster's scope and were more deserving of their own articles. Again, for the interested reader, we recommend @pearl2016causal, which adds links to many other resources.
 
