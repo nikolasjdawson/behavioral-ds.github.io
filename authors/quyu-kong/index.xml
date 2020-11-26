@@ -165,36 +165,4 @@ and Knowledge Management (pp. 1069-1078). ACM.&lt;br>
 [4] Kong, Q., Rizoiu, M. A., &amp;amp; Xie, L. (2019). Modeling Information
 Cascades with Self-exciting Processes via Generalized Epidemic Models.
 arXiv preprint arXiv:1910.05451.&lt;/p>
-&lt;/blockquote></description></item><item><title>This is an example news article</title><link>https://www.behavioral-ds.ml/newspost/test2/</link><pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate><guid>https://www.behavioral-ds.ml/newspost/test2/</guid><description>&lt;h2 id="r-markdown">R Markdown&lt;/h2>
-&lt;p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href="http://rmarkdown.rstudio.com">http://rmarkdown.rstudio.com&lt;/a>.&lt;/p>
-&lt;p>When you click the &lt;strong>Knit&lt;/strong> button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p>
-&lt;pre>&lt;code class="language-r">summary(cars)
-&lt;/code>&lt;/pre>
-&lt;pre>&lt;code>## speed dist
-## Min. : 4.0 Min. : 2.00
-## 1st Qu.:12.0 1st Qu.: 26.00
-## Median :15.0 Median : 36.00
-## Mean :15.4 Mean : 42.98
-## 3rd Qu.:19.0 3rd Qu.: 56.00
-## Max. :25.0 Max. :120.00
-&lt;/code>&lt;/pre>
-&lt;h2 id="including-plots">Including Plots&lt;/h2>
-&lt;p>You can also embed plots, for example:&lt;/p>
-&lt;p>&lt;img src="https://www.behavioral-ds.ml/post/test2_files/figure-html/pressure-1.png" width="672" />&lt;/p>
-&lt;p>Note that the &lt;code>echo = FALSE&lt;/code> parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p></description></item><item><title>This is another example news article</title><link>https://www.behavioral-ds.ml/newspost/test3/</link><pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate><guid>https://www.behavioral-ds.ml/newspost/test3/</guid><description>&lt;h2 id="r-markdown">R Markdown&lt;/h2>
-&lt;p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href="http://rmarkdown.rstudio.com">http://rmarkdown.rstudio.com&lt;/a>.&lt;/p>
-&lt;p>When you click the &lt;strong>Knit&lt;/strong> button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p>
-&lt;pre>&lt;code class="language-r">summary(cars)
-&lt;/code>&lt;/pre>
-&lt;pre>&lt;code>## speed dist
-## Min. : 4.0 Min. : 2.00
-## 1st Qu.:12.0 1st Qu.: 26.00
-## Median :15.0 Median : 36.00
-## Mean :15.4 Mean : 42.98
-## 3rd Qu.:19.0 3rd Qu.: 56.00
-## Max. :25.0 Max. :120.00
-&lt;/code>&lt;/pre>
-&lt;h2 id="including-plots">Including Plots&lt;/h2>
-&lt;p>You can also embed plots, for example:&lt;/p>
-&lt;p>&lt;img src="https://www.behavioral-ds.ml/post/test2_files/figure-html/pressure-1.png" width="672" />&lt;/p>
-&lt;p>Note that the &lt;code>echo = FALSE&lt;/code> parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p></description></item></channel></rss>
+&lt;/blockquote></description></item></channel></rss>
