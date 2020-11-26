@@ -4,7 +4,8 @@ widget: accomplishments
 headless: false  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-
+title: "Updates and media coverage"
+subtitle: "Noteworthy updates from the group."
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
