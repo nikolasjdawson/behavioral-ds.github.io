@@ -8,7 +8,7 @@ Adding a new piece of content to any pages can be done by adding a new post to t
 
 |   Page   | Home           |       People      |      Publication      |          Research         | Blog               | News               | Tool                   |
 |:--------:|----------------|:-----------------:|:---------------------:|:-------------------------:|--------------------|--------------------|------------------------|
-| Location | `content/home` | `content/authors` | `content/publication` | `content/researchproject` | `content/blogpost` | `data/news.yml` | `content/softwaretool` |
+| Location | `content/home` | `content/authors` | `content/publication/publications.bib` | `content/researchproject` | `content/blogpost` | `data/news.yml` | `content/softwaretool` |
 
 Specifically, you can follow the steps here to add to a particular page:
  - People
