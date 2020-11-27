@@ -1,0 +1,6 @@
+# add new items here to include recent news items
+item:
+  - date: '2020-08-01'
+    description: ' :page_facing_up: Our paper [Describing and Predicting Online Items with Reshare Cascades via Dual Mixture Self-exciting Processes](https://arxiv.org/abs/2001.11132) will be presented at CIKM 2020.'
+  - date: '2020-07-01'
+    description: ' :smile: This is a test news item'
