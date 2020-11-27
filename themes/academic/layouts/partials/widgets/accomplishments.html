@@ -11,7 +11,7 @@
     {{ with $page.Content }}{{ . }}{{ end }}
     <ul style="list-style: none">
     {{ if $page.Params.item }}
-    {{ range $idx, $key := sort $page.Params.item ".date_start" "desc" }}
+    {{ range $idx, $key := sort $page.Params.item ".date" "desc" }}
       <li>
         <div style="margin-bottom: 1rem;">
             <div class="row">
