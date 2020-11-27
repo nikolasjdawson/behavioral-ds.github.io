@@ -7,8 +7,7 @@ headless: true  # This file represents a page section.
 active: true  # Activate this widget? true/false
 weight: 50  # Order that this section will appear.
 
-title: "Recent Updates"
-subtitle: ""
+title: "Recent News"
 
 limit: 5
 main_page: true
