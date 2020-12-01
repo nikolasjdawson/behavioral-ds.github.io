@@ -2,7 +2,7 @@
 # the news get re-ordered, so does not matter where you add entries. For sanity reasons, let's add new items at the end.
 item:
   - date: '2020-10-06'
-    description: '[Andrei](authors/ma-rizoiu/) gave an [interview on the Panorama radio show](http://syn.org.au/news-talks-11-boom-misinformation-across-social-media/) about the ways misinformation spreads through social media and how it affect consumers. Panorama is the flagship news and current affairs show of the youth-run SYN Media, broadcasting from Melbourne.'
+    description: '[Andrei](authors/ma-rizoiu/) gave an [interview on the Panorama radio show](http://syn.org.au/news-talks-11-boom-misinformation-across-social-media/) about the ways misinformation spreads through social media and how it affects consumers. Panorama is the flagship news and current affairs show of the youth-run SYN Media, broadcasting from Melbourne.'
   - date: '2020-11-26'
     description: '[Nik](authors/nik-dawson/) (and [Andrei](authors/ma-rizoiu/)) gave an invited talk at the [Reserve Bank of Australia](https://www.rba.gov.au/) on career transitions and managing labour supply and demand.'
   - date: '2020-08-01'
