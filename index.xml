@@ -290,24 +290,14 @@ license&lt;/a>. If you
 require a different license, please contact us at &lt;a href="mailto:Quyu.Kong@anu.edu.au">Quyu.Kong@anu.edu.au&lt;/a>
 or &lt;a href="mailto:Marian-Andrei@rizoiu.eu">Marian-Andrei@rizoiu.eu&lt;/a>.&lt;/p>
 &lt;h2 id="reference">Reference&lt;/h2>
-&lt;blockquote>
-&lt;p>[1] Rizoiu, M. A., Lee, Y., Mishra, S., &amp;amp; Xie, L. (2017, December).
-Hawkes processes for events in social media. In Frontiers of
-Multimedia Research (pp. 191-218). Association for Computing Machinery
+&lt;p>[1] Rizoiu, M. A., Lee, Y., Mishra, S., &amp;amp; Xie, L. (2017, December). Hawkes processes for events in social media. In Frontiers of Multimedia Research (pp. 191-218). Association for Computing Machinery
 and Morgan &amp;amp; Claypool.&lt;br>
 [2] Rizoiu, M. A., Mishra, S., Kong, Q., Carman, M., &amp;amp; Xie, L.
-(2018, April). SIR-Hawkes: Linking epidemic models and Hawkes
-processes to model diffusions in finite populations. In Proceedings of
-the 2018 World Wide Web Conference (pp. 419-428). International World
-Wide Web Conferences Steering Committee.&lt;br>
+(2018, April). SIR-Hawkes: Linking epidemic models and Hawkes processes to model diffusions in finite populations. In Proceedings of the 2018 World Wide Web Conference (pp. 419-428). International World Wide Web Conferences Steering Committee.&lt;br>
 [3] Mishra, S., Rizoiu, M. A., &amp;amp; Xie, L. (2016, October). Feature
-driven and point process approaches for popularity prediction. In
-Proceedings of the 25th ACM International on Conference on Information
-and Knowledge Management (pp. 1069-1078). ACM.&lt;br>
+driven and point process approaches for popularity prediction. In Proceedings of the 25th ACM International on Conference on Information and Knowledge Management (pp. 1069-1078). ACM.&lt;br>
 [4] Kong, Q., Rizoiu, M. A., &amp;amp; Xie, L. (2019). Modeling Information
-Cascades with Self-exciting Processes via Generalized Epidemic Models.
-arXiv preprint arXiv:1910.05451.&lt;/p>
-&lt;/blockquote></description></item><item><title>Blog</title><link>https://www.behavioral-ds.ml/post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.behavioral-ds.ml/post/</guid><description/></item><item><title>Contact</title><link>https://www.behavioral-ds.ml/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.behavioral-ds.ml/contact/</guid><description/></item><item><title>News</title><link>https://www.behavioral-ds.ml/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.behavioral-ds.ml/news/</guid><description/></item><item><title>People</title><link>https://www.behavioral-ds.ml/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.behavioral-ds.ml/people/</guid><description/></item><item><title>Publications</title><link>https://www.behavioral-ds.ml/publication/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.behavioral-ds.ml/publication/</guid><description>&lt;p>
+Cascades with Self-exciting Processes via Generalized Epidemic Models. arXiv preprint arXiv:1910.05451.&lt;/p></description></item><item><title>Blog</title><link>https://www.behavioral-ds.ml/post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.behavioral-ds.ml/post/</guid><description/></item><item><title>Contact</title><link>https://www.behavioral-ds.ml/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.behavioral-ds.ml/contact/</guid><description/></item><item><title>News</title><link>https://www.behavioral-ds.ml/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.behavioral-ds.ml/news/</guid><description/></item><item><title>People</title><link>https://www.behavioral-ds.ml/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.behavioral-ds.ml/people/</guid><description/></item><item><title>Publications</title><link>https://www.behavioral-ds.ml/publication/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.behavioral-ds.ml/publication/</guid><description>&lt;p>
 &lt;script src="https://www.behavioral-ds.ml/js/bibtex_js.js">&lt;/script>
 &lt;bibtex src="publications.bib">&lt;/bibtex>&lt;/p>
 &lt;div style="margin-right: 10px; margin-top: -50px; float:right">
