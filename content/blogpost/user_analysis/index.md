@@ -17,7 +17,7 @@ links:
   url: https://github.com/behavioral-ds/user-analysis
 ---
 
-We demonstrate in this blog post a tutorial on applying our tools for analyzing online information diffusions about contents or Twitter users, [`birdspotter`](https://github.com/behavioral-ds/BirdSpotter) and [`evently`](https://github.com/behavioral-ds/evently).
+We demonstrate in this blog post a tutorial on applying the tools for analyzing online information diffusions about Twitter users, [`birdspotter`](https://github.com/behavioral-ds/BirdSpotter) and [`evently`](https://github.com/behavioral-ds/evently).
 
 
 ## Dataset
