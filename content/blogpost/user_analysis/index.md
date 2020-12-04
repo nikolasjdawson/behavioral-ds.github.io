@@ -24,9 +24,9 @@ We demonstrate in this blog post a tutorial on applying the tools for analyzing 
 
 In this tutorial, we apply two tools for analyzing Twitter users, on a COVID-19 retweet dataset. The dataset
 is curated by Chen, et al. One can obtain a copy of the tweet IDs from
-their \[project\]\](<https://github.com/echen102/COVID-19-TweetIDs>). We
+their [project](https://github.com/echen102/COVID-19-TweetIDs). We
 only use the 31st of Janury sample of the whole dataset for
-demonstration purpose. The tweets can be recovered by `de-hydrating`
+demonstration purpose. The tweets can be recovered by `hydration`
 from their IDs. We note that some tweets might have been deleted and in
 the end we manage to get 69.2% (1,489,877) of the original tweets.
 
